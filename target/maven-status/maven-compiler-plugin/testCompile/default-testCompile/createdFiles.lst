@@ -1,0 +1,4 @@
+mao\spring_boot_integrate_redis\RedisObjectConfigTest.class
+mao\spring_boot_integrate_redis\RedisObjectStringRedisTemplateTest.class
+mao\spring_boot_integrate_redis\SpringBootIntegrateRedisApplicationTests.class
+mao\spring_boot_integrate_redis\RedisObjectJdkTest.class
