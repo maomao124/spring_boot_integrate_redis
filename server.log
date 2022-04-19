@@ -395,3 +395,66 @@ Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No q
 2022-04-19 12:57:40.698  INFO 2308 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
 2022-04-19 12:57:40.725  INFO 2308 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 11 ms. Found 0 Redis repository interfaces.
 2022-04-19 12:57:42.420  INFO 2308 --- [main] SpringBootIntegrateRedisApplicationTests : Started SpringBootIntegrateRedisApplicationTests in 2.814 seconds (JVM running for 4.289)
+2022-04-19 13:06:26.172  INFO 6036 --- [main] m.s.RedisObjectStringRedisTemplateTest   : Starting RedisObjectStringRedisTemplateTest using Java 16.0.2 on mao with PID 6036 (started by mao in H:\程序\大三下期\spring_boot整合redis)
+2022-04-19 13:06:26.174 DEBUG 6036 --- [main] m.s.RedisObjectStringRedisTemplateTest   : Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-19 13:06:26.174  INFO 6036 --- [main] m.s.RedisObjectStringRedisTemplateTest   : The following 1 profile is active: "dev"
+2022-04-19 13:06:26.729  INFO 6036 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-04-19 13:06:26.731  INFO 6036 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-04-19 13:06:26.750  INFO 6036 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2022-04-19 13:06:28.190  INFO 6036 --- [main] m.s.RedisObjectStringRedisTemplateTest   : Started RedisObjectStringRedisTemplateTest in 2.408 seconds (JVM running for 3.286)
+2022-04-19 13:06:55.666  INFO 1992 --- [main] m.s.RedisObjectStringRedisTemplateTest   : Starting RedisObjectStringRedisTemplateTest using Java 16.0.2 on mao with PID 1992 (started by mao in H:\程序\大三下期\spring_boot整合redis)
+2022-04-19 13:06:55.667 DEBUG 1992 --- [main] m.s.RedisObjectStringRedisTemplateTest   : Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-19 13:06:55.668  INFO 1992 --- [main] m.s.RedisObjectStringRedisTemplateTest   : The following 1 profile is active: "dev"
+2022-04-19 13:06:56.189  INFO 1992 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-04-19 13:06:56.192  INFO 1992 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-04-19 13:06:56.212  INFO 1992 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 6 ms. Found 0 Redis repository interfaces.
+2022-04-19 13:06:57.664  INFO 1992 --- [main] m.s.RedisObjectStringRedisTemplateTest   : Started RedisObjectStringRedisTemplateTest in 2.367 seconds (JVM running for 3.26)
+2022-04-19 13:09:04.057  INFO 14404 --- [main] m.s.RedisObjectStringRedisTemplateTest   : Starting RedisObjectStringRedisTemplateTest using Java 16.0.2 on mao with PID 14404 (started by mao in H:\程序\大三下期\spring_boot整合redis)
+2022-04-19 13:09:04.058 DEBUG 14404 --- [main] m.s.RedisObjectStringRedisTemplateTest   : Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-19 13:09:04.058  INFO 14404 --- [main] m.s.RedisObjectStringRedisTemplateTest   : The following 1 profile is active: "dev"
+2022-04-19 13:09:04.599  INFO 14404 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-04-19 13:09:04.602  INFO 14404 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-04-19 13:09:04.618  INFO 14404 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2022-04-19 13:09:06.036  INFO 14404 --- [main] m.s.RedisObjectStringRedisTemplateTest   : Started RedisObjectStringRedisTemplateTest in 2.376 seconds (JVM running for 3.269)
+2022-04-19 13:09:15.917  INFO 7800 --- [main] m.s.RedisObjectStringRedisTemplateTest   : Starting RedisObjectStringRedisTemplateTest using Java 16.0.2 on mao with PID 7800 (started by mao in H:\程序\大三下期\spring_boot整合redis)
+2022-04-19 13:09:15.918 DEBUG 7800 --- [main] m.s.RedisObjectStringRedisTemplateTest   : Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-19 13:09:15.919  INFO 7800 --- [main] m.s.RedisObjectStringRedisTemplateTest   : The following 1 profile is active: "dev"
+2022-04-19 13:09:16.462  INFO 7800 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-04-19 13:09:16.465  INFO 7800 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-04-19 13:09:16.482  INFO 7800 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2022-04-19 13:09:17.954  INFO 7800 --- [main] m.s.RedisObjectStringRedisTemplateTest   : Started RedisObjectStringRedisTemplateTest in 2.413 seconds (JVM running for 3.286)
+2022-04-19 13:10:06.096  INFO 10504 --- [main] m.s.RedisObjectStringRedisTemplateTest   : Starting RedisObjectStringRedisTemplateTest using Java 16.0.2 on mao with PID 10504 (started by mao in H:\程序\大三下期\spring_boot整合redis)
+2022-04-19 13:10:06.097 DEBUG 10504 --- [main] m.s.RedisObjectStringRedisTemplateTest   : Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-19 13:10:06.098  INFO 10504 --- [main] m.s.RedisObjectStringRedisTemplateTest   : The following 1 profile is active: "dev"
+2022-04-19 13:10:06.653  INFO 10504 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-04-19 13:10:06.656  INFO 10504 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-04-19 13:10:06.672  INFO 10504 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2022-04-19 13:10:08.135  INFO 10504 --- [main] m.s.RedisObjectStringRedisTemplateTest   : Started RedisObjectStringRedisTemplateTest in 2.417 seconds (JVM running for 3.307)
+2022-04-19 13:10:40.941  INFO 9360 --- [main] m.s.RedisObjectStringRedisTemplateTest   : Starting RedisObjectStringRedisTemplateTest using Java 16.0.2 on mao with PID 9360 (started by mao in H:\程序\大三下期\spring_boot整合redis)
+2022-04-19 13:10:40.942 DEBUG 9360 --- [main] m.s.RedisObjectStringRedisTemplateTest   : Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-19 13:10:40.942  INFO 9360 --- [main] m.s.RedisObjectStringRedisTemplateTest   : The following 1 profile is active: "dev"
+2022-04-19 13:10:41.485  INFO 9360 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-04-19 13:10:41.488  INFO 9360 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-04-19 13:10:41.506  INFO 9360 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2022-04-19 13:10:42.916  INFO 9360 --- [main] m.s.RedisObjectStringRedisTemplateTest   : Started RedisObjectStringRedisTemplateTest in 2.35 seconds (JVM running for 3.225)
+2022-04-19 13:12:54.086  INFO 4812 --- [main] m.s.RedisObjectStringRedisTemplateTest   : Starting RedisObjectStringRedisTemplateTest using Java 16.0.2 on mao with PID 4812 (started by mao in H:\程序\大三下期\spring_boot整合redis)
+2022-04-19 13:12:54.087 DEBUG 4812 --- [main] m.s.RedisObjectStringRedisTemplateTest   : Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-19 13:12:54.087  INFO 4812 --- [main] m.s.RedisObjectStringRedisTemplateTest   : The following 1 profile is active: "dev"
+2022-04-19 13:12:54.598  INFO 4812 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-04-19 13:12:54.600  INFO 4812 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-04-19 13:12:54.620  INFO 4812 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2022-04-19 13:12:56.010  INFO 4812 --- [main] m.s.RedisObjectStringRedisTemplateTest   : Started RedisObjectStringRedisTemplateTest in 2.293 seconds (JVM running for 3.215)
+2022-04-19 13:13:47.739  INFO 5696 --- [main] m.s.RedisObjectStringRedisTemplateTest   : Starting RedisObjectStringRedisTemplateTest using Java 16.0.2 on mao with PID 5696 (started by mao in H:\程序\大三下期\spring_boot整合redis)
+2022-04-19 13:13:47.740 DEBUG 5696 --- [main] m.s.RedisObjectStringRedisTemplateTest   : Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-19 13:13:47.741  INFO 5696 --- [main] m.s.RedisObjectStringRedisTemplateTest   : The following 1 profile is active: "dev"
+2022-04-19 13:13:48.274  INFO 5696 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-04-19 13:13:48.277  INFO 5696 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-04-19 13:13:48.293  INFO 5696 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2022-04-19 13:13:49.708  INFO 5696 --- [main] m.s.RedisObjectStringRedisTemplateTest   : Started RedisObjectStringRedisTemplateTest in 2.35 seconds (JVM running for 3.23)
+2022-04-19 13:14:03.300  INFO 12184 --- [main] m.s.RedisObjectStringRedisTemplateTest   : Starting RedisObjectStringRedisTemplateTest using Java 16.0.2 on mao with PID 12184 (started by mao in H:\程序\大三下期\spring_boot整合redis)
+2022-04-19 13:14:03.301 DEBUG 12184 --- [main] m.s.RedisObjectStringRedisTemplateTest   : Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-19 13:14:03.302  INFO 12184 --- [main] m.s.RedisObjectStringRedisTemplateTest   : The following 1 profile is active: "dev"
+2022-04-19 13:14:03.824  INFO 12184 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-04-19 13:14:03.826  INFO 12184 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-04-19 13:14:03.844  INFO 12184 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2022-04-19 13:14:05.296  INFO 12184 --- [main] m.s.RedisObjectStringRedisTemplateTest   : Started RedisObjectStringRedisTemplateTest in 2.363 seconds (JVM running for 3.256)

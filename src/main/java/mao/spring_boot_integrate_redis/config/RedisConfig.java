@@ -24,14 +24,14 @@ import org.springframework.data.redis.serializer.RedisSerializer;
 public class RedisConfig
 {
     @Bean
-    public RedisTemplate<String,Object> redisTemplate(RedisConnectionFactory redisConnectionFactory)
+    public RedisTemplate<String, Object> redisTemplate(RedisConnectionFactory redisConnectionFactory)
     {
         //创建RedisTemplate
-        RedisTemplate<String,Object> redisTemplate=new RedisTemplate<>();
+        RedisTemplate<String, Object> redisTemplate = new RedisTemplate<>();
         //创建连接工厂
         redisTemplate.setConnectionFactory(redisConnectionFactory);
         //设置序列化工具，可以用阿里巴巴的FastJson
-        GenericJackson2JsonRedisSerializer genericJackson2JsonRedisSerializer=new GenericJackson2JsonRedisSerializer();
+        GenericJackson2JsonRedisSerializer genericJackson2JsonRedisSerializer = new GenericJackson2JsonRedisSerializer();
         //key和hashKey采用 string序列化
         redisTemplate.setKeySerializer(RedisSerializer.string());
         redisTemplate.setHashKeySerializer(RedisSerializer.string());
